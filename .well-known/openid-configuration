@@ -1,1 +1,1 @@
-
+{"issuer":"https://modgensolutions.github.io/jenkins-oidc","jwks_uri":"https://modgensolutions.github.io/jenkins-oidc/jwks","response_types_supported":["code"],"subject_types_supported":["public"],"id_token_signing_alg_values_supported":["RS256"],"authorization_endpoint":"https://unimplemented","token_endpoint":"https://unimplemented"}
